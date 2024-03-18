@@ -4,3 +4,10 @@ Repositório com as implementações dos padrões de projeto explorados no Lab "
 - Singleton
 - Strategy
 - Facade
+
+# Complementando a entrega do trabalho, foi criado as seguintes classes.
+
+- abstractfatory
+- strategypadrao
+
+
